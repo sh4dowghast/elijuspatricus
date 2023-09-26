@@ -4,7 +4,7 @@ The **Elijus Patricus** disease, known more commonly as the *Elijahvirus*, is a 
 ## Symptoms
 Early signs of the disease include rapid deterioration of the host's intelligence. 
 
-##Causes
+## Causes
 
 ## Diagnosis
 
